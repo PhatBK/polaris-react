@@ -6,6 +6,8 @@ Use [the changelog guidelines](https://git.io/polaris-changelog-guidelines) to f
 
 ### Enhancements
 
+- Adds the `ariaControls` prop to the `Checkbox` ([#4509](https://github.com/Shopify/polaris-react/pull/4509))
+
 ### Bug fixes
 
 ### Documentation
